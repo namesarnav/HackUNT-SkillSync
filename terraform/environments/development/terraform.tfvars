@@ -1,0 +1,7 @@
+aws_region           = "us-east-1"
+mongodb_org_id       = ""
+mongodb_public_key   = ""
+mongodb_private_key  = ""
+mongodb_user_password = ""
+alert_email          = ""
+domain_name          = ""
